@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+.navcolor{background-color: #36a00c;}
+.navcolor ul li a{
+    color: white !important;
+    padding-right: 20px !important;
+    padding-left: 20px !important; 
+    cursor: pointer;
+}
+.navcolor ul li a:hover{
+    color: black !important; 
+    background-color: white;
+}
+/* Navbar End */
+
+.bottomline{
+    border-bottom: 2px solid grey;
+}
+/* First Section End */
+
+textarea{
+    height: 100px !important;
+}
+.form-control{
+    border-radius: 0px !important;
+    border: 2px solid #36a00c !important;
+    border-bottom: 0px !important;
+}
+input:focus, textarea:focus{outline: none !important; box-shadow: none !important;}
+.mybutton{
+    background-color: #36a00c !important;
+    border-radius: 0px !important;
+}
+/* Second Section End  */
+.fontbtn a{
+    text-decoration: none !important;
+    background-color: #36a00c !important;
+    font-size: 25px;
+    color: white !important;
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+    margin-right: -3px !important;
+    line-height: 35px !important;  
+}
+/* Third Section End  */
+
+.backcolor {background-color: #36a00c !important;}
+.liststyle li {list-style: none; font-style: italic;}
+.liststyle li a {text-decoration: none;}
+.liststyle p a{text-decoration: none;}
+.img-thumbnail{border: none !important; line-height: none !important;}
+/* Footer End */
+
+
+
+
